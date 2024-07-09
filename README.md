@@ -8,4 +8,6 @@
   copy target.jpg image in the /image-swap folder.
   and then execute python script.
   while this, you can see goal.jpg
-  check the result.
+  Check the result.
+## future
+  allowing multi image processing.
